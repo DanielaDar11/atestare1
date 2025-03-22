@@ -3,3 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container img {
+    width: 300px;
+    margin:20px;
+    height: 200px;
+}
+
+.container  .selectat {
+    border:3px solid rgb(3, 60, 4);
+    box-shadow: 0 0 10px rgb(4, 118, 25);
+}
